@@ -3,6 +3,9 @@ A Weather Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+> Deployed to netlify
+> Click [Here](https://epic-galileo-ec159b.netlify.app/) to check on it.
+
 ## Available Scripts
 
 In the project directory, you can run:
